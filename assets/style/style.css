@@ -22,6 +22,8 @@ body{
     justify-content: space-between;
     align-items: center; 
     gap: 361px;
+    font-weight: 500;
+    line-height: 23px;
 }
 
 .header-logo {
@@ -36,7 +38,7 @@ body{
 }
 
 .menu-items {
-    font-family: 'DM Sans';
+    font-family: 'DMSans';
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -134,7 +136,6 @@ body{
     font-weight: 700;
     font-size: 64px;
     line-height: 77px;
-    letter-spacing: -0.02em;
     color: #4F9CF9;
     display: flex;
     padding-top: 70px;
@@ -142,10 +143,8 @@ body{
 }
 
 .hero-section-trial p {
-    font-weight: 400;
     font-size: 18px;
     line-height: 30px;
-    letter-spacing: -0.02em;
     color: #4F9CF9;
     display: flex;
     padding-bottom: 60px ;
