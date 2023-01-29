@@ -1174,10 +1174,14 @@ body{
         background: none;
         
     }
+    .tryitout{
+        padding-left: 32.5px;
+    }
     .project-management-content{
         flex-direction: column;
         padding: 5px 5px;        
     }
+    
     .project-management-content h1 {
         padding: 0 100px;
         background-position-x: 100px;
@@ -1188,8 +1192,11 @@ body{
     }
     .project-management-content a {
         margin: 20px 100px;
-    }
 
+    }
+    .tryitout-2{
+        padding-left: 27px;
+    }
     .work-together-content{
         flex-direction: column;
         padding: 5px 5px;
@@ -1205,6 +1212,7 @@ body{
         margin: 20px 100px;
     }
 
+
     /* Customise
     ==================== */
     .customise{
@@ -1214,7 +1222,9 @@ body{
     .customise-heading {
         flex-direction: column;
         padding: 5px 5px;
-        
+    }
+    .tryitout-1{
+        margin-left: 60px;
     }
     .customise-heading  h1 {
         padding: 0 100px;
@@ -1231,7 +1241,8 @@ body{
     /* Pricing
     ==================== */
     .pricing{
-        padding: 100px 195px;
+        padding: 100px 185px;
+        
     }
     .price-block{
         padding: 0;
@@ -1304,6 +1315,9 @@ body{
     }
     .data-heading a{
         margin-left: 200px;
+    }
+    .tryitout-3{
+        padding-left: 25px;
     }
 
     /* Sponsor
