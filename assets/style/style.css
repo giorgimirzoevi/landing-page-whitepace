@@ -3,6 +3,7 @@
     margin: 0 auto;
     padding: 0; 
     max-width: 1920px ; 
+    
 }
 
 body{
@@ -1228,7 +1229,7 @@ body{
     }
     .customise-heading  h1 {
         padding: 0 100px;
-        background-position-x: 350px;
+        background-position-x: 260px;
         background-position-y: 140px;
     }
     .customise-heading p {
